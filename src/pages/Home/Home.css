@@ -1,0 +1,22 @@
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.product-name {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+.product-description {
+    font-size: 1rem;
+    color: #555;
+}
