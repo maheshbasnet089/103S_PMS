@@ -9,6 +9,7 @@ const Navbar = () => {
     {/* <a href="/addProduct">Add Product</a> */}
     <Link to="/addProduct">Add Product</Link>
     <Link to="/test">Test</Link>
+    <Link to="/test2">Test2</Link>
     {/* <button onClick={()=>navigate("/addProduct")}> Add Product</button> */}
 
 </div>
